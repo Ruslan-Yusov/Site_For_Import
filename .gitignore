@@ -3,4 +3,5 @@ Thumbs.db
 *_old
 *_backup
 .idea/
+.DS_Store
 
